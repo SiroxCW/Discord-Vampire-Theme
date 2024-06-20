@@ -1,5 +1,5 @@
 ## Discord Vampire Theme
-This is a dark Discord Theme which works for Enmity mobile (iOS Enmity) and desktop (Vencord, BetterDiscord, ...)
+This is a dark Discord Theme which works for Enmity mobile (iOS Enmity) and desktop.
 
 ### Installation
 - <b>Desktop</b>

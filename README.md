@@ -7,9 +7,8 @@ This is a dark Discord Theme which works for Enmity mobile (iOS Enmity) and desk
   2. Open your theme folder and put the bdVampire.css file in the themes folder.
  
 - Mobile
-  1. Download the enVampire.css file.
-  2. Open the themes tab in Enmity and click on the +.
-  3. For the theme URL put in [this](https://raw.githubusercontent.com/SiroxCW/Discord-Vampire-Theme/main/enVampire.json) link.
+  1. Open the themes tab in Enmity and click on the +.
+  2. For the theme URL put in [this](https://raw.githubusercontent.com/SiroxCW/Discord-Vampire-Theme/main/enVampire.json) link.
 
 <br/>
 

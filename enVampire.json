@@ -1,0 +1,191 @@
+{
+    "name": "Vampire",
+    "description": "Dark Anime Vampire Theme.",
+    "color": "#111111",
+    "authors": [
+        {
+            "name": "sirox",
+            "id": "497108999049576448"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff",
+            "#FFFFFF"
+        ],
+        "HEADER_SECONDARY": [
+            "#c8c8c8",
+            "#FFFFFF"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#DA4453",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#DA4453",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#DA4453",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#DA4453",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#363636",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#120c0e",
+            "#ffffff"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#170c0e",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#170c0e",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#DA4453",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#120c0e",
+            "#ffffff"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#120c0e",
+            "#ffffff"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#DA4453",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#DA4453",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "transparent",
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#201E25",
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent",
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#201E25",
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#111111",
+            "#FFFFFF"
+        ],
+        "CHAT_BACKGROUND": [
+            "#120c0e",
+            "#FFFFFF"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#c8c8c8",
+            "#FFFFFF"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#000000"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#120c0e",
+            "#FFFFFF"
+        ],
+        "BG_BACKDROP": [
+            "#04010173"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#120c0e"
+        ],
+        "TEXT_LINK": [
+            "#DA4453",
+            "#FFFFFF"
+        ],
+        "KEYBOARD": [
+            "#120c0e",
+            "#FFFFFF"
+        ],
+        "CHANNEL_ICON": [
+            "#DA4453",
+            "#FFFFFF"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#000000",
+        "PRIMARY_100": "#FFFFFF",
+        "PRIMARY_200": "#FFFFFF",
+        "PRIMARY_300": "#B6B6B6",
+        "PRIMARY_360": "#C8C8C8",
+        "PRIMARY_400": "#808080",
+        "PRIMARY_500": "#DA4453",
+        "PRIMARY_600": "#120c0e",
+        "PRIMARY_630": "#1a1b21",
+        "PRIMARY_700": "#101010",
+        "PRIMARY_800": "#151515",
+        "PLUM_1": "#FFFFFF",
+        "PLUM_10": "#828282",
+        "PLUM_11": "#232223",
+        "PLUM_13": "#eb99a1",
+        "PLUM_17": "#000000",
+        "PLUM_18": "#120c0e",
+        "PLUM_19": "#120c0e",
+        "PLUM_20": "#120c0e",
+        "PLUM_22": "#120c0e",
+        "BRAND_260": "#8a94a8",
+        "BRAND_500": "#DA4453",
+        "BRAND_900": "#120c0e",
+        "BRAND": "#8a94a8",
+        "YELLOW_300": "#ffffff",
+        "GREEN_600": "#ffffff",
+        "DANGER": "#DA4453",
+        "RED": "848484"
+    },
+    "unsafe_colors": {
+        "CHAT_GREY": "#120c0e"
+    },
+    "background": {
+        "alpha": 5,
+        "url": "https://neutronnet.net/dl/discord/vampire/bg.png"
+    }
+}

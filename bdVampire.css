@@ -1,15 +1,10 @@
 /**
- * @name BasicBackground
+ * @name Vampire
  * @description Allows you to use a Background Image without greatly altering the basic Layout of Discord
- * @author DevilBro
- * @version 1.0.5
- * @authorId 278543574059057154
- * @invite Jx3TjNS
- * @donate https://www.paypal.me/MircoWittrien
- * @patreon https://www.patreon.com/MircoWittrien
- * @website https://mwittrien.github.io/
- * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground/
- * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.theme.css
+ * @author Sirox
+ * @version 1.1.0
+ * @authorId 497108999049576448
+ * @website https://neutronnet.net/
  * 
  * @var text				transparencycolor_s		"Transparency Color: [default] = 0, 0, 0"		0, 0, 0
  * @var range				transparencyalpha_s		"Transparency Alpha: [default] = 0.15"			[0.15, 0, 1, 0.05]

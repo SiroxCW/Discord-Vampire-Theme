@@ -17,5 +17,5 @@ This is a dark Discord Theme which works for mobile (iOS Enmity) and desktop.
 ![](https://raw.githubusercontent.com/SiroxCW/Discord-Vampire-Theme/main/bdVampire.png)
 <br/>
 <br/>
-<b>Mobile</b>
-![](https://raw.githubusercontent.com/SiroxCW/Discord-Vampire-Theme/main/enVampire.png)
+<b>Mobile</b><br>
+<img src="https://raw.githubusercontent.com/SiroxCW/Discord-Vampire-Theme/main/enVampire.png" width="300" height="600">

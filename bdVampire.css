@@ -77,3 +77,15 @@
 	
 	--version1_0_5:			none;				/* DO NOT CHANGE THIS VARIABLE , USED TO HIDE UPDATE NOTICE										*/
 }
+
+html:only-child > head + body div.bar_c38106 > div.title_c38106::after {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    content: none !important;
+    width: 0 !important;
+    height: 0 !important;
+    position: absolute !important;
+    left: -9999px !important;
+    z-index: -9999 !important;
+}
